@@ -1,7 +1,7 @@
 # ✨ Fancy ToDo - Smart PWA Task Manager
 
 
-Beautiful, installable **Progressive Web App** built with vanilla HTML, CSS & JavaScript. Works offline too!
+Beautiful, installable **Progressive Web App** built with HTML, CSS & JavaScript. Works offline too!
 
 ## 🚀 Features
 - ✨ Glassmorphism design + dark/light mode
